@@ -1,0 +1,2 @@
+# vimdc
+My Vim configuration
